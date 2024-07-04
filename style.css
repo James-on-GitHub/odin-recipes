@@ -1,11 +1,32 @@
 #title {
     font-family: Garamond, "Times New Roman", serif;
+    font-size: 120px;
+    text-align:center;
 }
 
 .sub-title {
     font-family: 'Courier New', Courier, monospace;
+    font-size: 42px;
+}
+
+.intro {
+    text-align: center;
+}
+
+.src {
+    font-size: 15px
 }
 
 div {
     font-family: Helvetica, Arial, sans-serif;
+    font-size: 21px;
+}
+
+img {
+    height: auto;
+    width: 600px;
+}
+
+body {
+    background-color: rgb(232, 241, 255);
 }
